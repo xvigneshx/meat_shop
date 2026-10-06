@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367400512988",
+    "project_id": "the-meat-shop-32d92",
+    "storage_bucket": "the-meat-shop-32d92.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367400512988:android:6a5c7938992f8b4558f319",
+        "android_client_info": {
+          "package_name": "com.example.meat_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA3BLQ7j-mGANYvNpbgl8aOcShrFglhdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
